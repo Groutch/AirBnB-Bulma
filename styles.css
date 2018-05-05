@@ -1,5 +1,22 @@
-section.hero{
-    background: url("../home/davidj/Documents/Airbnb Bulma/images");
+div.box{
+    background: url("images/jumbotron.jpg");
     background-size: cover;
     background-position: center;
+}
+section.hero{
+    background-size: cover;
+    
+
+}
+
+h5{
+    padding: 20px;
+}
+
+a.button{
+    margin: 5px;
+}
+
+.column{
+    border-color: white;
 }
