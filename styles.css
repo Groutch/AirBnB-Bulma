@@ -1,11 +1,35 @@
-div.box{
-    background: url("images/jumbotron.jpg");
+#homes{
+    background-image: url("images/explore-home.jpg");
     background-size: cover;
-    background-position: center;
+    width: 96px;
+    height: 72px;
+    
+}
+
+#experiences{
+    background-image: url("images/explore-experiences.jpg");
+    background-size: cover;
+    width: 96px;
+    height: 72px;
+}
+
+#restaurants{
+    background-image: url("images/explore-restaurants.jpg");
+    background-size: cover;
+    width: 96px;
+    height: 72px;
+}
+
+#jumbotron{
+    background: url("images/jumbotron.jpg");
+    background-size: cover ;
+    background-repeat: no-repeat ;
+    width : 1131px;
+    height: 300px;
 }
 section.hero{
     background-size: cover;
-    
+
 
 }
 
